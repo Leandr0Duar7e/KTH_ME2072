@@ -2,9 +2,9 @@
 
 #### Assignment Context
 
-> This repository serves as the foundation for my Idea Venture Paper assignment in ME2072 Entrepreneurship for Engineers at KTH. The assignment requires developing a business case/plan for an innovative idea, including initial testing through conversations with potential users and stakeholders. While this is primarily a "desktop exercise", the work done here will evolve into practical implementation in the follow-up course ME2073.
+> *This repository serves as the foundation for my Idea Venture Paper assignment in ME2072 Entrepreneurship for Engineers at KTH. The assignment requires developing a business case/plan for an innovative idea, including initial testing through conversations with potential users and stakeholders. While this is primarily a "desktop exercise", the work done here will evolve into practical implementation in the follow-up course ME2073.*
 
-> The paper focuses on applying concepts from "Lean Startup" and "Business Model Generation", culminating in a self-assessment. This repository will track the development of the idea and serve as a basis for future entrepreneurial work.
+> *The paper focuses on applying concepts from "Lean Startup" and "Business Model Generation", culminating in a self-assessment. This repository will track the development of the idea and serve as a basis for future entrepreneurial work.*
 
 
 ## 1. Summary
